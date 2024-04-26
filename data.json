@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "prueba de api",
+        "price": 999.99,
+        "description": "probando prueba de las pruebas",
+        "category": "phone",
+        "image": "https://imgs.search.brave.com/4uMszaF8rvLLFRkQwGZYhvQevrw6e38HN87eKYlNgz8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMjho/aTkzZ3I2OTdvbC5j/bG91ZGZyb250Lm5l/dC85ZWY4NGRkYS0z/MmRkLTQwMTYtN2Rh/My0xYzBhODI0ZmZm/YjQvaW1nL1Byb2R1/Y3RvLzM2OGNkNDhm/LWRkYTktOWFlMy0y/YjExLWI0M2MwMzhl/N2FlZS8xSVBIT05F/MTVQUk8tNjU5NzNl/ODlhMDU3MC5qcGc",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "prueba de api",
+        "price": 999.99,
+        "description": "probando prueba de las pruebas",
+        "category": "phone",
+        "image": "https://imgs.search.brave.com/4uMszaF8rvLLFRkQwGZYhvQevrw6e38HN87eKYlNgz8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMjho/aTkzZ3I2OTdvbC5j/bG91ZGZyb250Lm5l/dC85ZWY4NGRkYS0z/MmRkLTQwMTYtN2Rh/My0xYzBhODI0ZmZm/YjQvaW1nL1Byb2R1/Y3RvLzM2OGNkNDhm/LWRkYTktOWFlMy0y/YjExLWI0M2MwMzhl/N2FlZS8xSVBIT05F/MTVQUk8tNjU5NzNl/ODlhMDU3MC5qcGc",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+]
