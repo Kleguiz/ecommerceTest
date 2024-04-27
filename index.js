@@ -1,7 +1,7 @@
 const express = require("express");
 const server = express();
 const routerProductos = require("./src/routes/index");
-const data = require("./data.json");
+// const data = require("./data.json");
 
 //Rutas que vamos a tener en la app
 server.get("/", (req, res) => {
