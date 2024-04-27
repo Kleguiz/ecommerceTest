@@ -1,10 +1,8 @@
-const express = require ('express')
-const router = express.Router()
-const data = require ('../../data.json')
+const express = require("express");
+const router = express.Router();
+const Productos = require("../controller/index");
 
-router.get("/productos", (req, res) => {
-    res.json(data)
-} )
-router.post("/productos")
+router.get("/productos", Productos.getAll);
+// router.post("/productos");
 
-module.exports = router
+module.exports = router;

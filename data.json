@@ -1,26 +1,122 @@
 [
     {
         "id": 1,
-        "title": "prueba de api",
-        "price": 999.99,
-        "description": "probando prueba de las pruebas",
+        "title": "Nuevo teléfono inteligente X",
+        "price": 799.99,
+        "description": "El último teléfono inteligente con características avanzadas.",
         "category": "phone",
-        "image": "https://imgs.search.brave.com/4uMszaF8rvLLFRkQwGZYhvQevrw6e38HN87eKYlNgz8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMjho/aTkzZ3I2OTdvbC5j/bG91ZGZyb250Lm5l/dC85ZWY4NGRkYS0z/MmRkLTQwMTYtN2Rh/My0xYzBhODI0ZmZm/YjQvaW1nL1Byb2R1/Y3RvLzM2OGNkNDhm/LWRkYTktOWFlMy0y/YjExLWI0M2MwMzhl/N2FlZS8xSVBIT05F/MTVQUk8tNjU5NzNl/ODlhMDU3MC5qcGc",
+        "image": "https://example.com/phone3.jpg",
         "rating": {
-            "rate": 3.9,
-            "count": 120
+            "rate": 4.5,
+            "count": 95
         }
     },
     {
         "id": 2,
-        "title": "prueba de api",
-        "price": 999.99,
-        "description": "probando prueba de las pruebas",
-        "category": "phone",
-        "image": "https://imgs.search.brave.com/4uMszaF8rvLLFRkQwGZYhvQevrw6e38HN87eKYlNgz8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kMjho/aTkzZ3I2OTdvbC5j/bG91ZGZyb250Lm5l/dC85ZWY4NGRkYS0z/MmRkLTQwMTYtN2Rh/My0xYzBhODI0ZmZm/YjQvaW1nL1Byb2R1/Y3RvLzM2OGNkNDhm/LWRkYTktOWFlMy0y/YjExLWI0M2MwMzhl/N2FlZS8xSVBIT05F/MTVQUk8tNjU5NzNl/ODlhMDU3MC5qcGc",
+        "title": "Auriculares de alta fidelidad",
+        "price": 149.99,
+        "description": "Sumérgete en el sonido con estos auriculares premium.",
+        "category": "audio",
+        "image": "https://example.com/headphones.jpg",
         "rating": {
-            "rate": 3.9,
+            "rate": 4.8,
+            "count": 210
+        }
+    },
+    {
+        "id": 3,
+        "title": "Tableta X Plus",
+        "price": 499.99,
+        "description": "Una tableta potente con una pantalla impresionante.",
+        "category": "tablet",
+        "image": "https://example.com/tablet5.jpg",
+        "rating": {
+            "rate": 4.2,
+            "count": 150
+        }
+    },
+    {
+        "id": 4,
+        "title": "Cámara digital de bolsillo",
+        "price": 299.99,
+        "description": "Captura momentos preciosos con esta cámara compacta.",
+        "category": "camera",
+        "image": "https://example.com/camera6.jpg",
+        "rating": {
+            "rate": 4.0,
+            "count": 80
+        }
+    },
+    {
+        "id": 5,
+        "title": "Smartwatch deportivo",
+        "price": 199.99,
+        "description": "Mantén un seguimiento de tu salud y actividad física con estilo.",
+        "category": "wearable",
+        "image": "https://example.com/smartwatch7.jpg",
+        "rating": {
+            "rate": 4.4,
             "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "title": "Altavoz Bluetooth resistente al agua",
+        "price": 79.99,
+        "description": "Lleva la fiesta contigo a donde quiera que vayas con este altavoz duradero.",
+        "category": "audio",
+        "image": "https://example.com/speaker8.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 95
+        }
+    },
+    {
+        "id": 7,
+        "title": "Ordenador portátil ultradelgado",
+        "price": 1299.99,
+        "description": "Potencia y elegancia combinadas en este portátil ultraportátil.",
+        "category": "laptop",
+        "image": "https://example.com/laptop9.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 180
+        }
+    },
+    {
+        "id": 8,
+        "title": "Impresora todo-en-uno",
+        "price": 249.99,
+        "description": "Haz más en casa con esta impresora versátil.",
+        "category": "printer",
+        "image": "https://example.com/printer10.jpg",
+        "rating": {
+            "rate": 4.3,
+            "count": 150
+        }
+    },
+    {
+        "id": 9,
+        "title": "Reproductor de música portátil",
+        "price": 59.99,
+        "description": "Lleva tu música contigo a todas partes con este reproductor compacto.",
+        "category": "audio",
+        "image": "https://example.com/musicplayer11.jpg",
+        "rating": {
+            "rate": 4.1,
+            "count": 70
+        }
+    },
+    {
+        "id": 10,
+        "title": "Monitor de alta definición",
+        "price": 349.99,
+        "description": "Disfruta de una calidad de imagen impresionante con este monitor de última generación.",
+        "category": "monitor",
+        "image": "https://example.com/monitor12.jpg",
+        "rating": {
+            "rate": 4.9,
+            "count": 200
         }
     }
 ]
